@@ -16,6 +16,9 @@ seo:
   social_image:
   keywords:
   hide-from-google: false
+_comments:
+  title: Max 70 characters
+  social_image: Landscape 1200px X 600px
 ---
 ## Adventures in Bali
 
