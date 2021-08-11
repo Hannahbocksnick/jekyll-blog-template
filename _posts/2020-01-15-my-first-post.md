@@ -16,6 +16,9 @@ seo:
   social_image:
   keywords:
   hide-from-google: false
+_comments:
+  title: Max 70 characters
+  social_image: Lanscape 1200 X 600px
 ---
 ## Adventures in Bali
 
