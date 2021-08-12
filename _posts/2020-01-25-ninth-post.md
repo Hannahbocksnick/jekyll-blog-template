@@ -10,6 +10,7 @@ seo:
     title: 
     description: 
     social_image: 
+    twitter_card:
     keywords: 
     hide-from-google: false
 ---
